@@ -83,7 +83,7 @@ const Header = ({
           <div className="flex items-center gap-2">
             <span className="text-white text-nowrap">Speed :</span>
             <Slider
-              min={0}
+              min={1}
               max={100}
               value={sortingSpeed}
               onChange={handleChangeSortingSpeed}

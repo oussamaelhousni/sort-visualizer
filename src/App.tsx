@@ -14,7 +14,7 @@ function App() {
   const debouncedArraySize = useDebounce(arraySize, 150);
 
   const DELAY = useMemo(() => {
-    return 2000 + ((sortingSpeed - 1) * (1 - 2000)) / (100 - 1);
+    return 1000 + ((sortingSpeed - 1) * (1 - 1000)) / (100 - 1);
   }, [sortingSpeed]);
 
   useEffect(() => {
