@@ -1,5 +1,5 @@
 # Sort Visualizer
-[Live Demo]([https://link-url-here.org](https://sort-visualizer-oussamaelhousni.netlify.app/)
+[Live Demo](https://sort-visualizer-oussamaelhousni.netlify.app/)
 ## Overview
 
 Sort Visualizer is a web application that visually demonstrates sorting algorithms. It provides an interactive way to understand how different sorting algorithms work by animating the sorting process step-by-step.
